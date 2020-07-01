@@ -27,6 +27,6 @@ public class PhoneBook {
     }
 
     public static void list(String[][] book) {
-        System.out.println(list);//print phone book
+        System.out.println("Your phone book" + list);//print phone book
     }
 }
